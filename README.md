@@ -125,8 +125,8 @@ The following inventions are protected by provisional patent applications filed 
 Enquiries regarding licensing, pilot engagements, and commercial discussions:
 
 **Christopher John Taylor**
-chris.taylor.dev@proton.me
-linkedin.com/in/chris-taylor-3494852
+- Email: chris.taylor.dev@proton.me
+- LinkedIn: https://www.linkedin.com/in/chris-taylor-3494852
 
 ---
 
